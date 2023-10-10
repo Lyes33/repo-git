@@ -1,4 +1,8 @@
 hello word
 hello word 2
 hello word depuis master
+<<<<<<< HEAD
 helle to rebase depuis master
+=======
+hello rebase 2
+>>>>>>> 82b4b79 (add file rebase and update hello and reset file)
